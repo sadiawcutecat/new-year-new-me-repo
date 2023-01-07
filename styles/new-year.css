@@ -7,6 +7,7 @@
     background-repeat: no-repeat;
     height: 800px;
     width: 100%;
+   
 }
 
 .banner-title{
@@ -224,6 +225,13 @@ background-repeat: no-repeat;
    
     color: white;
     text-align: left;
+
+}
+.future{
+    margin-top: 40px;
+}
+.form{
+    margin-top: 40px;
 
 }
 .subscribe{
